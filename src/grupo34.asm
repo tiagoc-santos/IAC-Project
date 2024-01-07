@@ -2,10 +2,7 @@
 ;										 PROJETO IAC 2022/2023
 ;							BEYOND MARS: PASSAGEM PELA CINTURA DE ASTEROIDES
 ;
-;	Grupo 34
-;	Tiago Castro Santos, nº 106794
-;	Tomás Maria Carmona da Silva Manso Pires, nº 106895				
-;	David Rosa Almeida Venâncio Ferreira, nº 107219				
+;	Grupo 34		
 ;
 ;*******************************************************************************************************************
 
